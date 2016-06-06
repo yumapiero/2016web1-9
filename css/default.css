@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body{
-  background-image: url(http://yumapiero.github.io/2016web1-9/top.png),url(http://yumapiero.github.io/2016web1-9/under.ping); /*左が上に配置右が下に配置*/
+  background-image: url(http://yumapiero.github.io/2016web1-9/top.png),url(http://yumapiero.github.io/2016web1-9/under.png); /*左が上に配置右が下に配置*/
   background-repeat: no-repeat, no-repeat;
   background-color: lightgrey;
   margin: 5px;
